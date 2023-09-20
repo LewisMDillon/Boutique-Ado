@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "8000-lewismdillo-boutiqueado-0nby86m2nj7.ws-eu104.gitpod.io",
-    "https://boutique-ado-ld-a04d627418af.herokuapp.com/"
+    "boutique-ado-ld-a04d627418af.herokuapp.com"
     ]
 
 
